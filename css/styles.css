@@ -504,7 +504,7 @@ color: #2E2F42;
     display: flex;
     gap: 24px;
     justify-content: center;
-    flex-wrap: nowrap;
+    
 }
 
 .icon-container {
